@@ -40,7 +40,7 @@ src
 │   ├── redis                      # Redis 관련 테스트
 ├── build.gradle                   # 빌드 설정 파일
 └── gradlew                        # Gradle 실행 파일
-
+```
 ## 주요 컴포넌트
 
 ### 컨트롤러
