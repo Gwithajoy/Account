@@ -90,7 +90,3 @@ src
 - 거래 보고서 및 분석 기능 강화
 
 
-1. **프로젝트를 클론합니다.**
-   ```bash
-   git clone https://github.com/사용자이름/account-management-system.git
-
