@@ -1,4 +1,4 @@
-```properties
+
 # 💳 계좌 관리 시스템 (Account Management System)
 
 Spring Boot 기반의 계좌 관리 시스템으로, 계좌 생성부터 거래 처리, 예외 처리까지  
@@ -105,4 +105,3 @@ src
 GitHub 이슈 또는 아래 이메일로 연락해 주세요:
 
 📧 gleewithajoy@gmail.com
-```
